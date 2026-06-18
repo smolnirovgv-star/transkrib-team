@@ -2,4 +2,4 @@
 
 | Thread | Status | Last update | Files |
 |---|---|---|---|
-| iskin-director | awaiting-reply | 2026-06-18 | exchange/2026-06-18-codex-to-cloud-iskin-director-chat.md |
+| iskin-director | answered | 2026-06-18 | exchange/2026-06-18-codex-to-cloud-iskin-director-chat.md; exchange/2026-06-18-cloud-to-codex-iskin-director-chat.md |
